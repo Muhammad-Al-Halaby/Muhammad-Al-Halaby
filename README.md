@@ -16,7 +16,7 @@ Currently working at Noon, the region's leading e-commerce platform where I deve
 
 - 🏆 **Competitive Programming Achievements:**
   - ICPC World Finalist (Top 100 Worldwide)
-  - Africa and Arab Collegiate Programming Bronze Medalist
+  - Africa and Arab Collegiate Programming Championship Bronze Medalist
   - Expert rated on Codeforces
 
 - 💼 **Professional Focus:**
