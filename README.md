@@ -55,7 +55,7 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 - 📧 Email: m.j.alhalaby@gmail.com
 - 💼 LinkedIn: [Muhammad-Al-Halaby](https://www.linkedin.com/in/muhammad-al-halaby/)
-- 🏆 Codeforces: [Expert Profile](https://codeforces.com/profile/Muhammad-Al-Halaby)
+- 🏆 Codeforces: [Expert Profile](https://codeforces.com/profile/MuhammadAl-Halaby)
 
 ---
 
